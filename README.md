@@ -37,52 +37,6 @@
 
 ---
 
-## 📚 Atualmente praticando
-
-* Lógica de programação
-* Programação Orientada a Objetos
-* Classes e objetos
-* Encapsulamento
-* Construtores
-* Métodos
-* Getters e setters
-* ArrayList
-* Scanner
-* Estruturas condicionais
-* Estruturas de repetição
-* Organização de código em serviços
-* Git e GitHub
-
----
-
-## 📌 Projetos em destaque
-
-### 📚 Library System
-
-Sistema de gerenciamento de biblioteca feito em Java, com funcionalidades como cadastro de usuários, cadastro de livros, empréstimos, devoluções e listagem de registros.
-
-🔗 Repositório: [Library System](https://github.com/userJofel/Library-system)
-
-### 🔐 Gerenciador de Armários Escolares
-
-Sistema feito em Java para gerenciar armários escolares, permitindo criar armários, alocar alunos, liberar armários e listar armários disponíveis.
-
-🔗 Repositório: [Gerenciador de Armários Escolares](https://github.com/userJofel/Gerenciador-de-arm-rios-escolares)
-
----
-
-## 🎯 Próximos passos
-
-* Melhorar validações nos projetos
-* Aprender tratamento de erros
-* Criar projetos com persistência de dados
-* Estudar banco de dados
-* Aprender Spring Boot
-* Criar APIs REST
-* Evoluir como Desenvolvedor Backend
-
----
-
 ## 📫 Vamos nos conectar?
 
 <p align="left">

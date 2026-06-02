@@ -39,6 +39,14 @@
   <a href="https://github.com/userJofel">
     <img src="https://img.shields.io/badge/GitHub-userJofel-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
+  <a href="https://www.instagram.com/user_jofel/">
+    <img src="https://img.shields.io/badge/Instagram-user_jofel-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="mailto:user.jofel@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-user.jofel@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
